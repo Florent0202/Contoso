@@ -12,6 +12,7 @@
   - [PBI](#pbi)
     - [Visuelle 1](#visuelle-1)
     - [Visuelle 2](#visuelle-2)
+    - [Animation](#animation)
   - [Conclusion](#conclusion)
  
  
@@ -38,6 +39,9 @@ Ceci est un Projet d'analyse de donné avec SSAS, Excel et PowerBI basé sur la 
   ![Modele](img/Tableau.png)
 ### Visuelle 2
  ![Modele](img/KPI.png)
+
+### Animation
+ ![Modele](img/AnimationPBI.Gif)
 ## Conclusion
  
  
