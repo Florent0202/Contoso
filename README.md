@@ -22,7 +22,7 @@ Ceci est un Projet d'analyse de donné avec SSAS, Excel et PowerBI basé sur la 
  
 ## Modèle Tabulaire
  
- 
+ ![Modele](img/Modèle.png)
  
  
 ### Pivot Table
