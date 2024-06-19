@@ -41,7 +41,7 @@ Ceci est un Projet d'analyse de donné avec SSAS, Excel et PowerBI basé sur la 
  ![Modele](img/KPI.png)
 
 ### Animation
- ![Modele](img/AnimationPBI.Gif)
+ ![Modele](img/AnimationPBI.gif)
 ## Conclusion
  
  
